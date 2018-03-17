@@ -1,0 +1,22 @@
+1520606744380	Rename field 'BASE_PATH'
+1520607963543	Rename local variable 'milliseconds'
+1520608487418	Rename local variable 'creationDateInMS'
+1520612057192	Rename local variable 'file'
+1520617826058	Rename type 'MyResource'
+1520617844564	Rename package 'com.shashank.fis.FISServer'
+1520619570997	Move compilation unit
+1520619669347	Rename type 'FisConstants'
+1520619849617	Rename field 'PATH_SEPARATOR'
+1520620990105	Rename local variable 'pwd'
+1520663724769	Rename type 'InvalidCommandException'
+1520665221291	Copy file
+1520665288010	Copy file
+1520667060377	Move file
+1520669127797	Rename local variable 'request'
+1520669409692	Delete element
+1520669417546	Delete element
+1520670373558	Extract method 'getErrorResponse'
+1520689250909	Rename field 'fileMetadata'
+1520708725906	Copy package
+1520708742627	Copy packages
+1520709438395	Copy package
